@@ -1,0 +1,4 @@
+db.driver=driver
+db.url=url
+db.userName=username
+db.password=password

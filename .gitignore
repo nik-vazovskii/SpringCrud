@@ -1,0 +1,4 @@
+/.idea/
+/target/
+/SpringCrud.iml
+/src/main/resources/datasource.properties
